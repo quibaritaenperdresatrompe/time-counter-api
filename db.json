@@ -1,3 +1,1664 @@
 {
-  "leaderboard": []
+  "leaderboard": [
+    {
+      "username": "SherylFleming",
+      "score": 1598
+    },
+    {
+      "username": "AutumnFrench",
+      "score": 5908
+    },
+    {
+      "username": "AmberBarry",
+      "score": 932
+    },
+    {
+      "username": "BurchReilly",
+      "score": 457
+    },
+    {
+      "username": "RothBlackwell",
+      "score": 8590
+    },
+    {
+      "username": "DodsonSpears",
+      "score": 2389
+    },
+    {
+      "username": "CarterRoy",
+      "score": 9340
+    },
+    {
+      "username": "RosalindaCharles",
+      "score": 2050
+    },
+    {
+      "username": "AishaPope",
+      "score": 8594
+    },
+    {
+      "username": "SylviaIrwin",
+      "score": 4814
+    },
+    {
+      "username": "SerranoHarmon",
+      "score": 6846
+    },
+    {
+      "username": "ImeldaNichols",
+      "score": 1497
+    },
+    {
+      "username": "ValenciaPark",
+      "score": 1190
+    },
+    {
+      "username": "JoanPickett",
+      "score": 6769
+    },
+    {
+      "username": "MaryanneSaunders",
+      "score": 7946
+    },
+    {
+      "username": "PearsonEllis",
+      "score": 7944
+    },
+    {
+      "username": "MadeleineSutton",
+      "score": 3363
+    },
+    {
+      "username": "SonyaLindsay",
+      "score": 7829
+    },
+    {
+      "username": "IvyLawson",
+      "score": 7905
+    },
+    {
+      "username": "MaldonadoOlson",
+      "score": 6013
+    },
+    {
+      "username": "HazelDean",
+      "score": 9321
+    },
+    {
+      "username": "MyrtlePotts",
+      "score": 5466
+    },
+    {
+      "username": "HaleMcintosh",
+      "score": 3436
+    },
+    {
+      "username": "BlancheCardenas",
+      "score": 1648
+    },
+    {
+      "username": "HaneyDickerson",
+      "score": 5706
+    },
+    {
+      "username": "ShannonSweet",
+      "score": 4077
+    },
+    {
+      "username": "BergCash",
+      "score": 9969
+    },
+    {
+      "username": "DunlapWhitfield",
+      "score": 5914
+    },
+    {
+      "username": "FayVelazquez",
+      "score": 6203
+    },
+    {
+      "username": "KristinPuckett",
+      "score": 3731
+    },
+    {
+      "username": "WhitakerRay",
+      "score": 1017
+    },
+    {
+      "username": "ShereeMaynard",
+      "score": 6530
+    },
+    {
+      "username": "LeachRandolph",
+      "score": 8372
+    },
+    {
+      "username": "LanaGlass",
+      "score": 7640
+    },
+    {
+      "username": "ByersKeller",
+      "score": 6169
+    },
+    {
+      "username": "ThompsonMiller",
+      "score": 803
+    },
+    {
+      "username": "SerenaJuarez",
+      "score": 6671
+    },
+    {
+      "username": "RiveraMclean",
+      "score": 1351
+    },
+    {
+      "username": "BarreraFowler",
+      "score": 4584
+    },
+    {
+      "username": "PrestonStafford",
+      "score": 3453
+    },
+    {
+      "username": "LorenaFranklin",
+      "score": 2429
+    },
+    {
+      "username": "SteeleParker",
+      "score": 2015
+    },
+    {
+      "username": "KristyPennington",
+      "score": 890
+    },
+    {
+      "username": "EveStark",
+      "score": 311
+    },
+    {
+      "username": "McculloughWhitehead",
+      "score": 6371
+    },
+    {
+      "username": "HartmanHolland",
+      "score": 2825
+    },
+    {
+      "username": "ReevesHolmes",
+      "score": 3896
+    },
+    {
+      "username": "EmiliaKirby",
+      "score": 7050
+    },
+    {
+      "username": "SharleneWeaver",
+      "score": 5075
+    },
+    {
+      "username": "DavisBradley",
+      "score": 4717
+    },
+    {
+      "username": "LenoraMorrison",
+      "score": 294
+    },
+    {
+      "username": "BruceChase",
+      "score": 8451
+    },
+    {
+      "username": "MoodyTrujillo",
+      "score": 4282
+    },
+    {
+      "username": "TonyaBowman",
+      "score": 2718
+    },
+    {
+      "username": "HayesDorsey",
+      "score": 2632
+    },
+    {
+      "username": "WilkinsHahn",
+      "score": 9532
+    },
+    {
+      "username": "BrandiAdams",
+      "score": 5675
+    },
+    {
+      "username": "StephensonGray",
+      "score": 7078
+    },
+    {
+      "username": "JamieOchoa",
+      "score": 3839
+    },
+    {
+      "username": "StricklandHayes",
+      "score": 4193
+    },
+    {
+      "username": "MelodyNunez",
+      "score": 2276
+    },
+    {
+      "username": "LesaLove",
+      "score": 8624
+    },
+    {
+      "username": "RosalieHolcomb",
+      "score": 5808
+    },
+    {
+      "username": "ChristaParks",
+      "score": 2731
+    },
+    {
+      "username": "JohannaFrancis",
+      "score": 7514
+    },
+    {
+      "username": "SusanaCross",
+      "score": 4538
+    },
+    {
+      "username": "MckenzieMendoza",
+      "score": 1723
+    },
+    {
+      "username": "CaldwellNewton",
+      "score": 599
+    },
+    {
+      "username": "LynchRobles",
+      "score": 4495
+    },
+    {
+      "username": "RutledgeJarvis",
+      "score": 9831
+    },
+    {
+      "username": "SpenceDurham",
+      "score": 6895
+    },
+    {
+      "username": "BensonDelaney",
+      "score": 7334
+    },
+    {
+      "username": "LaceyMeadows",
+      "score": 8124
+    },
+    {
+      "username": "ChristianGreene",
+      "score": 6640
+    },
+    {
+      "username": "MckeeWilder",
+      "score": 548
+    },
+    {
+      "username": "RosaAshley",
+      "score": 2106
+    },
+    {
+      "username": "RobinMayo",
+      "score": 7610
+    },
+    {
+      "username": "MackFigueroa",
+      "score": 1481
+    },
+    {
+      "username": "PorterConner",
+      "score": 6587
+    },
+    {
+      "username": "ThomasHall",
+      "score": 3273
+    },
+    {
+      "username": "PenelopePatrick",
+      "score": 9683
+    },
+    {
+      "username": "NonaRichardson",
+      "score": 5029
+    },
+    {
+      "username": "OlsonMelton",
+      "score": 5657
+    },
+    {
+      "username": "AdelineLester",
+      "score": 3064
+    },
+    {
+      "username": "TraceySloan",
+      "score": 157
+    },
+    {
+      "username": "DoraCrawford",
+      "score": 6997
+    },
+    {
+      "username": "MeaganBishop",
+      "score": 8889
+    },
+    {
+      "username": "LaraFletcher",
+      "score": 2552
+    },
+    {
+      "username": "KittyMarsh",
+      "score": 7924
+    },
+    {
+      "username": "ConstancePearson",
+      "score": 589
+    },
+    {
+      "username": "KatelynAlbert",
+      "score": 8774
+    },
+    {
+      "username": "SniderElliott",
+      "score": 3316
+    },
+    {
+      "username": "BeachHardin",
+      "score": 2956
+    },
+    {
+      "username": "HarrietMueller",
+      "score": 319
+    },
+    {
+      "username": "WelchBecker",
+      "score": 2453
+    },
+    {
+      "username": "DanielsWatkins",
+      "score": 1198
+    },
+    {
+      "username": "LynnPollard",
+      "score": 7687
+    },
+    {
+      "username": "IsabelleWeber",
+      "score": 3075
+    },
+    {
+      "username": "LuisaSteele",
+      "score": 8000
+    },
+    {
+      "username": "EvansKing",
+      "score": 29
+    },
+    {
+      "username": "NavarroDuke",
+      "score": 3473
+    },
+    {
+      "username": "ClaudineMay",
+      "score": 2645
+    },
+    {
+      "username": "EsmeraldaLynch",
+      "score": 7162
+    },
+    {
+      "username": "DanielDonaldson",
+      "score": 345
+    },
+    {
+      "username": "BeckerScott",
+      "score": 7086
+    },
+    {
+      "username": "LeolaPotter",
+      "score": 8081
+    },
+    {
+      "username": "ChasityBurnett",
+      "score": 3955
+    },
+    {
+      "username": "AustinSosa",
+      "score": 5453
+    },
+    {
+      "username": "MathisGuthrie",
+      "score": 4042
+    },
+    {
+      "username": "BucknerDuran",
+      "score": 1993
+    },
+    {
+      "username": "DixonSantana",
+      "score": 9604
+    },
+    {
+      "username": "CarrollWitt",
+      "score": 8090
+    },
+    {
+      "username": "ChristiePowers",
+      "score": 5819
+    },
+    {
+      "username": "ShermanSpencer",
+      "score": 9294
+    },
+    {
+      "username": "ElbaUnderwood",
+      "score": 9570
+    },
+    {
+      "username": "CantuRobinson",
+      "score": 9523
+    },
+    {
+      "username": "BrownStanley",
+      "score": 9630
+    },
+    {
+      "username": "SawyerNorton",
+      "score": 4178
+    },
+    {
+      "username": "TerrellAlexander",
+      "score": 5411
+    },
+    {
+      "username": "TessaStout",
+      "score": 379
+    },
+    {
+      "username": "KramerOsborn",
+      "score": 354
+    },
+    {
+      "username": "ConcepcionCalhoun",
+      "score": 8578
+    },
+    {
+      "username": "WestCobb",
+      "score": 6309
+    },
+    {
+      "username": "ChristianContreras",
+      "score": 6418
+    },
+    {
+      "username": "MedinaJensen",
+      "score": 4597
+    },
+    {
+      "username": "IngridNolan",
+      "score": 9426
+    },
+    {
+      "username": "OdessaBarlow",
+      "score": 645
+    },
+    {
+      "username": "EulaMcknight",
+      "score": 4890
+    },
+    {
+      "username": "LouellaOneil",
+      "score": 632
+    },
+    {
+      "username": "LawrenceDillon",
+      "score": 6886
+    },
+    {
+      "username": "EatonMoore",
+      "score": 2895
+    },
+    {
+      "username": "MejiaAyers",
+      "score": 2054
+    },
+    {
+      "username": "FlynnCotton",
+      "score": 3952
+    },
+    {
+      "username": "SheltonMartin",
+      "score": 6961
+    },
+    {
+      "username": "RobinsonJacobs",
+      "score": 8943
+    },
+    {
+      "username": "LoveFrye",
+      "score": 277
+    },
+    {
+      "username": "RandiCollier",
+      "score": 7511
+    },
+    {
+      "username": "CaraManning",
+      "score": 3237
+    },
+    {
+      "username": "RochaFischer",
+      "score": 6023
+    },
+    {
+      "username": "VilmaKirk",
+      "score": 8244
+    },
+    {
+      "username": "AmparoAllison",
+      "score": 8035
+    },
+    {
+      "username": "AnnetteSheppard",
+      "score": 5329
+    },
+    {
+      "username": "GarnerMosley",
+      "score": 7977
+    },
+    {
+      "username": "MillicentPowell",
+      "score": 8100
+    },
+    {
+      "username": "ClariceMercer",
+      "score": 8793
+    },
+    {
+      "username": "LiliaFranco",
+      "score": 6936
+    },
+    {
+      "username": "DaisyPrice",
+      "score": 3468
+    },
+    {
+      "username": "PadillaMcpherson",
+      "score": 882
+    },
+    {
+      "username": "AgnesMcclure",
+      "score": 2944
+    },
+    {
+      "username": "HenriettaBrewer",
+      "score": 8015
+    },
+    {
+      "username": "TorresTorres",
+      "score": 8884
+    },
+    {
+      "username": "IrmaWhitaker",
+      "score": 9794
+    },
+    {
+      "username": "GenaBaird",
+      "score": 3031
+    },
+    {
+      "username": "DonaNieves",
+      "score": 7044
+    },
+    {
+      "username": "SadieRocha",
+      "score": 816
+    },
+    {
+      "username": "LeonCrane",
+      "score": 2121
+    },
+    {
+      "username": "ShawnaLevy",
+      "score": 9596
+    },
+    {
+      "username": "HarringtonDavidson",
+      "score": 8978
+    },
+    {
+      "username": "AguilarBailey",
+      "score": 3064
+    },
+    {
+      "username": "IngramCole",
+      "score": 517
+    },
+    {
+      "username": "LaurelBaldwin",
+      "score": 2275
+    },
+    {
+      "username": "NicholsonDowns",
+      "score": 4477
+    },
+    {
+      "username": "MiaSampson",
+      "score": 9478
+    },
+    {
+      "username": "AmieLara",
+      "score": 6234
+    },
+    {
+      "username": "OwensSnider",
+      "score": 9308
+    },
+    {
+      "username": "WoodwardBeck",
+      "score": 7770
+    },
+    {
+      "username": "SuzetteRatliff",
+      "score": 8762
+    },
+    {
+      "username": "CarolynWilson",
+      "score": 165
+    },
+    {
+      "username": "PuckettBerg",
+      "score": 9651
+    },
+    {
+      "username": "BernardHowell",
+      "score": 7889
+    },
+    {
+      "username": "EdwardsSoto",
+      "score": 8414
+    },
+    {
+      "username": "AlexandriaSchneider",
+      "score": 1136
+    },
+    {
+      "username": "LevineTownsend",
+      "score": 9622
+    },
+    {
+      "username": "DollieDaugherty",
+      "score": 2134
+    },
+    {
+      "username": "JeanieCraig",
+      "score": 2260
+    },
+    {
+      "username": "RodriguezRojas",
+      "score": 3240
+    },
+    {
+      "username": "DianneLuna",
+      "score": 7850
+    },
+    {
+      "username": "PatsyPugh",
+      "score": 3620
+    },
+    {
+      "username": "HamptonGlenn",
+      "score": 6118
+    },
+    {
+      "username": "MercerHodge",
+      "score": 268
+    },
+    {
+      "username": "ChristinaKim",
+      "score": 2967
+    },
+    {
+      "username": "MatthewsHood",
+      "score": 3635
+    },
+    {
+      "username": "BrockCochran",
+      "score": 6744
+    },
+    {
+      "username": "SimoneAlvarez",
+      "score": 330
+    },
+    {
+      "username": "OliverFry",
+      "score": 6685
+    },
+    {
+      "username": "PeckHudson",
+      "score": 5514
+    },
+    {
+      "username": "RoweBenton",
+      "score": 9322
+    },
+    {
+      "username": "LeeSanders",
+      "score": 5685
+    },
+    {
+      "username": "CarrieThornton",
+      "score": 8753
+    },
+    {
+      "username": "LorrieWyatt",
+      "score": 58
+    },
+    {
+      "username": "RosannaGuerra",
+      "score": 2423
+    },
+    {
+      "username": "ChanWatts",
+      "score": 2406
+    },
+    {
+      "username": "LopezAcosta",
+      "score": 5281
+    },
+    {
+      "username": "AllisonLivingston",
+      "score": 9418
+    },
+    {
+      "username": "DuranHart",
+      "score": 2652
+    },
+    {
+      "username": "MollyValentine",
+      "score": 2666
+    },
+    {
+      "username": "AbbyRiley",
+      "score": 855
+    },
+    {
+      "username": "BenderEstes",
+      "score": 3242
+    },
+    {
+      "username": "StewartBarrera",
+      "score": 2
+    },
+    {
+      "username": "ErikaRodriguez",
+      "score": 9976
+    },
+    {
+      "username": "GoldenRamos",
+      "score": 3952
+    },
+    {
+      "username": "FoxGeorge",
+      "score": 2116
+    },
+    {
+      "username": "GentryGolden",
+      "score": 5221
+    },
+    {
+      "username": "CareyRose",
+      "score": 1842
+    },
+    {
+      "username": "CarissaBright",
+      "score": 1412
+    },
+    {
+      "username": "BishopShelton",
+      "score": 6868
+    },
+    {
+      "username": "ConwayBurris",
+      "score": 890
+    },
+    {
+      "username": "KelleyHerman",
+      "score": 301
+    },
+    {
+      "username": "LawsonFarley",
+      "score": 1873
+    },
+    {
+      "username": "PierceHicks",
+      "score": 4011
+    },
+    {
+      "username": "MartinaMcdonald",
+      "score": 6171
+    },
+    {
+      "username": "CurryWiley",
+      "score": 4037
+    },
+    {
+      "username": "AnaRivers",
+      "score": 1257
+    },
+    {
+      "username": "MoniqueFrederick",
+      "score": 2487
+    },
+    {
+      "username": "RamonaWooten",
+      "score": 2938
+    },
+    {
+      "username": "TerrieWalls",
+      "score": 6861
+    },
+    {
+      "username": "SchwartzSnow",
+      "score": 7850
+    },
+    {
+      "username": "WillieGutierrez",
+      "score": 8695
+    },
+    {
+      "username": "MeganStephenson",
+      "score": 7066
+    },
+    {
+      "username": "KellerGaines",
+      "score": 2085
+    },
+    {
+      "username": "CraneColeman",
+      "score": 6848
+    },
+    {
+      "username": "NicholeMerrill",
+      "score": 2266
+    },
+    {
+      "username": "HesterPreston",
+      "score": 58
+    },
+    {
+      "username": "MelanieGrimes",
+      "score": 2972
+    },
+    {
+      "username": "HerreraReese",
+      "score": 3237
+    },
+    {
+      "username": "GreerOdom",
+      "score": 271
+    },
+    {
+      "username": "FarleyMack",
+      "score": 7869
+    },
+    {
+      "username": "RoslynCarpenter",
+      "score": 9615
+    },
+    {
+      "username": "AdrianParsons",
+      "score": 5849
+    },
+    {
+      "username": "BridgettHanson",
+      "score": 7211
+    },
+    {
+      "username": "BethNelson",
+      "score": 6578
+    },
+    {
+      "username": "DaleTalley",
+      "score": 1482
+    },
+    {
+      "username": "GainesWise",
+      "score": 3011
+    },
+    {
+      "username": "BurtHutchinson",
+      "score": 306
+    },
+    {
+      "username": "DayBolton",
+      "score": 2793
+    },
+    {
+      "username": "YoungPeterson",
+      "score": 9258
+    },
+    {
+      "username": "MarisolJames",
+      "score": 8038
+    },
+    {
+      "username": "LatonyaHurley",
+      "score": 741
+    },
+    {
+      "username": "JuliaWagner",
+      "score": 6901
+    },
+    {
+      "username": "TrevinoHodges",
+      "score": 4858
+    },
+    {
+      "username": "MindyBuchanan",
+      "score": 5504
+    },
+    {
+      "username": "CollinsBlankenship",
+      "score": 697
+    },
+    {
+      "username": "HancockJackson",
+      "score": 4953
+    },
+    {
+      "username": "SotoWolf",
+      "score": 8914
+    },
+    {
+      "username": "HamiltonMcconnell",
+      "score": 3082
+    },
+    {
+      "username": "TerryRoberts",
+      "score": 5723
+    },
+    {
+      "username": "RussoRichards",
+      "score": 3813
+    },
+    {
+      "username": "OdomCortez",
+      "score": 6742
+    },
+    {
+      "username": "AngelaHancock",
+      "score": 4195
+    },
+    {
+      "username": "RoySanchez",
+      "score": 4551
+    },
+    {
+      "username": "DouglasGoodwin",
+      "score": 6875
+    },
+    {
+      "username": "LottieBurns",
+      "score": 9332
+    },
+    {
+      "username": "MarquitaRoman",
+      "score": 3388
+    },
+    {
+      "username": "TerriMccarty",
+      "score": 6951
+    },
+    {
+      "username": "CarleneBrennan",
+      "score": 277
+    },
+    {
+      "username": "AlmaMorales",
+      "score": 9188
+    },
+    {
+      "username": "McneilSawyer",
+      "score": 6162
+    },
+    {
+      "username": "JudithCastillo",
+      "score": 6208
+    },
+    {
+      "username": "JeanineLeblanc",
+      "score": 166
+    },
+    {
+      "username": "PettyNash",
+      "score": 8804
+    },
+    {
+      "username": "KaneWatson",
+      "score": 436
+    },
+    {
+      "username": "AlanaGiles",
+      "score": 4040
+    },
+    {
+      "username": "FieldsMorse",
+      "score": 1527
+    },
+    {
+      "username": "MasseyRiddle",
+      "score": 1936
+    },
+    {
+      "username": "ChrisWilkinson",
+      "score": 2475
+    },
+    {
+      "username": "HeleneBarnes",
+      "score": 5677
+    },
+    {
+      "username": "GloverDejesus",
+      "score": 4697
+    },
+    {
+      "username": "WyattKerr",
+      "score": 3627
+    },
+    {
+      "username": "JuanitaGordon",
+      "score": 8376
+    },
+    {
+      "username": "SavannahChurch",
+      "score": 9830
+    },
+    {
+      "username": "ElizabethBarr",
+      "score": 4092
+    },
+    {
+      "username": "FloydBranch",
+      "score": 8167
+    },
+    {
+      "username": "PatrickBurgess",
+      "score": 1365
+    },
+    {
+      "username": "DonaldsonCrosby",
+      "score": 7572
+    },
+    {
+      "username": "DarleneHaney",
+      "score": 5465
+    },
+    {
+      "username": "DoreenFisher",
+      "score": 5477
+    },
+    {
+      "username": "SamanthaHoward",
+      "score": 5911
+    },
+    {
+      "username": "GoodKelley",
+      "score": 4395
+    },
+    {
+      "username": "KaraCummings",
+      "score": 7320
+    },
+    {
+      "username": "BarbraCoffey",
+      "score": 6651
+    },
+    {
+      "username": "EstesMullen",
+      "score": 3344
+    },
+    {
+      "username": "RaeFreeman",
+      "score": 292
+    },
+    {
+      "username": "CarlyGilmore",
+      "score": 3727
+    },
+    {
+      "username": "DonnaSims",
+      "score": 954
+    },
+    {
+      "username": "BridgetteHowe",
+      "score": 1057
+    },
+    {
+      "username": "GarrisonWheeler",
+      "score": 4112
+    },
+    {
+      "username": "KristineHaley",
+      "score": 4388
+    },
+    {
+      "username": "WilmaHill",
+      "score": 5478
+    },
+    {
+      "username": "PerkinsMacdonald",
+      "score": 1240
+    },
+    {
+      "username": "LarsenChandler",
+      "score": 483
+    },
+    {
+      "username": "LeaBarton",
+      "score": 6511
+    },
+    {
+      "username": "ConleyPeck",
+      "score": 2518
+    },
+    {
+      "username": "SantosAnderson",
+      "score": 206
+    },
+    {
+      "username": "BetsyPerry",
+      "score": 1790
+    },
+    {
+      "username": "YorkStein",
+      "score": 9999
+    },
+    {
+      "username": "AlysonDominguez",
+      "score": 4071
+    },
+    {
+      "username": "InesCruz",
+      "score": 1808
+    },
+    {
+      "username": "LeanneDoyle",
+      "score": 4404
+    },
+    {
+      "username": "StaceyPhelps",
+      "score": 4294
+    },
+    {
+      "username": "GertrudeFerrell",
+      "score": 6555
+    },
+    {
+      "username": "LindseyWard",
+      "score": 1366
+    },
+    {
+      "username": "KristinaHaynes",
+      "score": 4329
+    },
+    {
+      "username": "ConradAtkins",
+      "score": 5262
+    },
+    {
+      "username": "RosanneJefferson",
+      "score": 7113
+    },
+    {
+      "username": "JamiSherman",
+      "score": 8381
+    },
+    {
+      "username": "SophieBanks",
+      "score": 9430
+    },
+    {
+      "username": "MeghanDrake",
+      "score": 4224
+    },
+    {
+      "username": "SlaterVinson",
+      "score": 695
+    },
+    {
+      "username": "DuncanBowers",
+      "score": 7154
+    },
+    {
+      "username": "KatherynBernard",
+      "score": 4253
+    },
+    {
+      "username": "ElinorRandall",
+      "score": 3890
+    },
+    {
+      "username": "CalderonRollins",
+      "score": 9529
+    },
+    {
+      "username": "NormanReed",
+      "score": 9975
+    },
+    {
+      "username": "MyraRosa",
+      "score": 3447
+    },
+    {
+      "username": "IleneGalloway",
+      "score": 1234
+    },
+    {
+      "username": "EffieMorton",
+      "score": 1700
+    },
+    {
+      "username": "CainCantrell",
+      "score": 3167
+    },
+    {
+      "username": "MaciasGilliam",
+      "score": 5919
+    },
+    {
+      "username": "ElsaOrr",
+      "score": 9725
+    },
+    {
+      "username": "JusticeWalton",
+      "score": 4418
+    },
+    {
+      "username": "GladysMann",
+      "score": 6175
+    },
+    {
+      "username": "DuffyBlack",
+      "score": 6492
+    },
+    {
+      "username": "NellieBarron",
+      "score": 7097
+    },
+    {
+      "username": "RosemaryStokes",
+      "score": 3737
+    },
+    {
+      "username": "MeyerSummers",
+      "score": 9849
+    },
+    {
+      "username": "BallardJordan",
+      "score": 277
+    },
+    {
+      "username": "JordanClay",
+      "score": 427
+    },
+    {
+      "username": "LloydWorkman",
+      "score": 4509
+    },
+    {
+      "username": "HerminiaRios",
+      "score": 9954
+    },
+    {
+      "username": "MontgomeryGonzalez",
+      "score": 7714
+    },
+    {
+      "username": "HildaCooke",
+      "score": 8212
+    },
+    {
+      "username": "HeathSantiago",
+      "score": 9939
+    },
+    {
+      "username": "LidiaFarmer",
+      "score": 9785
+    },
+    {
+      "username": "SolomonMarks",
+      "score": 1974
+    },
+    {
+      "username": "ElvaRiggs",
+      "score": 3904
+    },
+    {
+      "username": "JessieCasey",
+      "score": 783
+    },
+    {
+      "username": "JulianneDavid",
+      "score": 764
+    },
+    {
+      "username": "PattiSparks",
+      "score": 1920
+    },
+    {
+      "username": "MasonVelez",
+      "score": 6416
+    },
+    {
+      "username": "BarlowSchultz",
+      "score": 3935
+    },
+    {
+      "username": "HillBattle",
+      "score": 5631
+    },
+    {
+      "username": "EnidBond",
+      "score": 4854
+    },
+    {
+      "username": "McgowanSexton",
+      "score": 3440
+    },
+    {
+      "username": "MccrayWebb",
+      "score": 951
+    },
+    {
+      "username": "MccarthyAguilar",
+      "score": 2259
+    },
+    {
+      "username": "DebraHuff",
+      "score": 9702
+    },
+    {
+      "username": "KaylaStrong",
+      "score": 6060
+    },
+    {
+      "username": "ValarieBarnett",
+      "score": 5800
+    },
+    {
+      "username": "BrightJohnston",
+      "score": 5168
+    },
+    {
+      "username": "GarrettHansen",
+      "score": 4105
+    },
+    {
+      "username": "DeborahMichael",
+      "score": 1345
+    },
+    {
+      "username": "BrennanDyer",
+      "score": 6184
+    },
+    {
+      "username": "CarolinaSpence",
+      "score": 9541
+    },
+    {
+      "username": "ReyesDennis",
+      "score": 2286
+    },
+    {
+      "username": "HensleyNoble",
+      "score": 5966
+    },
+    {
+      "username": "McguireHatfield",
+      "score": 1161
+    },
+    {
+      "username": "RobersonWaters",
+      "score": 9792
+    },
+    {
+      "username": "GallowayHendrix",
+      "score": 4379
+    },
+    {
+      "username": "LynnRobertson",
+      "score": 4888
+    },
+    {
+      "username": "GarzaLowe",
+      "score": 2045
+    },
+    {
+      "username": "LyndaSchmidt",
+      "score": 8230
+    },
+    {
+      "username": "PotterFoster",
+      "score": 3654
+    },
+    {
+      "username": "MosesBean",
+      "score": 6929
+    },
+    {
+      "username": "MichaelCurry",
+      "score": 9985
+    },
+    {
+      "username": "RichardStewart",
+      "score": 342
+    },
+    {
+      "username": "LangWall",
+      "score": 4239
+    },
+    {
+      "username": "MadelynHardy",
+      "score": 8781
+    },
+    {
+      "username": "LilaRutledge",
+      "score": 218
+    },
+    {
+      "username": "McclureDay",
+      "score": 3261
+    },
+    {
+      "username": "HopperIngram",
+      "score": 2624
+    },
+    {
+      "username": "MyersPaul",
+      "score": 6392
+    },
+    {
+      "username": "CooleyMclaughlin",
+      "score": 6384
+    },
+    {
+      "username": "HeidiMacias",
+      "score": 3298
+    },
+    {
+      "username": "EmersonSalazar",
+      "score": 5915
+    },
+    {
+      "username": "EmmaSellers",
+      "score": 2516
+    },
+    {
+      "username": "ShannaFaulkner",
+      "score": 1976
+    },
+    {
+      "username": "JohnstonMccall",
+      "score": 4431
+    },
+    {
+      "username": "RiceBates",
+      "score": 2252
+    },
+    {
+      "username": "KirkColon",
+      "score": 7194
+    },
+    {
+      "username": "TamekaHubbard",
+      "score": 7233
+    },
+    {
+      "username": "LatashaBonner",
+      "score": 9335
+    },
+    {
+      "username": "BonitaBass",
+      "score": 1812
+    },
+    {
+      "username": "GarciaGallegos",
+      "score": 9766
+    },
+    {
+      "username": "HowardWilliam",
+      "score": 7980
+    },
+    {
+      "username": "CohenSimon",
+      "score": 2840
+    },
+    {
+      "username": "BarnettAndrews",
+      "score": 2969
+    },
+    {
+      "username": "LindsayWong",
+      "score": 2515
+    },
+    {
+      "username": "MartaChristensen",
+      "score": 723
+    },
+    {
+      "username": "JamesKirkland",
+      "score": 5337
+    },
+    {
+      "username": "LauriMedina",
+      "score": 3983
+    },
+    {
+      "username": "CrosbyFinley",
+      "score": 327
+    },
+    {
+      "username": "LornaGoff",
+      "score": 6707
+    },
+    {
+      "username": "ClaudetteHewitt",
+      "score": 5670
+    },
+    {
+      "username": "RheaPruitt",
+      "score": 5839
+    },
+    {
+      "username": "SarahMcleod",
+      "score": 9590
+    },
+    {
+      "username": "FarrellFlynn",
+      "score": 5940
+    },
+    {
+      "username": "WellsBeach",
+      "score": 6878
+    },
+    {
+      "username": "HinesDaniels",
+      "score": 1226
+    },
+    {
+      "username": "VirginiaFitzpatrick",
+      "score": 321
+    },
+    {
+      "username": "BaileyMcgee",
+      "score": 691
+    },
+    {
+      "username": "ChavezCalderon",
+      "score": 2846
+    },
+    {
+      "username": "FaulknerLittle",
+      "score": 2958
+    },
+    {
+      "username": "RoseGuzman",
+      "score": 1864
+    },
+    {
+      "username": "CeceliaLe",
+      "score": 5632
+    },
+    {
+      "username": "RamirezEaton",
+      "score": 43
+    },
+    {
+      "username": "LesleyHead",
+      "score": 370
+    },
+    {
+      "username": "CarlsonShaffer",
+      "score": 9743
+    },
+    {
+      "username": "ReneeRamsey",
+      "score": 7939
+    },
+    {
+      "username": "CombsWillis",
+      "score": 8575
+    },
+    {
+      "username": "CarrBaxter",
+      "score": 2446
+    },
+    {
+      "username": "IrwinGreen",
+      "score": 6667
+    },
+    {
+      "username": "WallsHorn",
+      "score": 6512
+    },
+    {
+      "username": "ClarkeBoyle",
+      "score": 4459
+    },
+    {
+      "username": "BeverleyHartman",
+      "score": 6399
+    },
+    {
+      "username": "CastilloChang",
+      "score": 1078
+    }
+  ]
 }
